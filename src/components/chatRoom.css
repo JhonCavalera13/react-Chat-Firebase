@@ -1,0 +1,29 @@
+input[type="text"]{
+    width: 350px;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: white;
+    top: 480px;
+    position: fixed;
+    font-size: 16px;
+}
+
+button{
+    
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #b80f22;
+    color: white;
+    width: 300px;
+    border-radius: 20px;
+    cursor: pointer;
+    top: 550px;
+    left: 30px;
+    position: fixed;
+
+}
